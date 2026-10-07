@@ -1,0 +1,5 @@
+2026-09-17 10:00:01 [INFO] Sistema iniciado correctamente
+2026-09-17 10:01:15 [ERROR] Error de conexión con pasarela de pago (Timeout)
+2026-09-17 10:02:22 [DEBUG] Consultando balance de usuario 450
+2026-09-17 10:03:40 [ERROR] NullPointerException en ServicioInventario.actualizarStock()
+2026-09-17 10:05:00 [INFO] Backup programado ejecutado

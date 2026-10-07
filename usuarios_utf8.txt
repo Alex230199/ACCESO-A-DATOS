@@ -1,0 +1,3 @@
+1;GarcÃ­a;AdministraciÃ³n;garcia@empresa.com
+2;MuÃ±oz;DiseÃ±o GrÃ¡fico;munoz@empresa.com
+3;PeÃ±a;LogÃ­stica y AlmacÃ©n;pena@empresa.com
